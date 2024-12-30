@@ -23,7 +23,7 @@ const projects=[
     stack:[
   {name:'NextJs'},{name:'Tailwind'},],
   image:'/assets/soloup.png',
-  live:"https://soloup-rajputsundrams-projects.vercel.app/ ",
+  live:"https://soloup-n-js.vercel.app/ ",
   github:"https://github.com/rajputsundram/NextJsSoloup",
   },
 
@@ -162,11 +162,15 @@ const Work = () => {
                 </SwiperSlide>
                 )
               })}
-
-              {/* slider buttons */}
-              <WorkSliderBtns containerStyles="flex gap-2 absolute right-0 bottom-[calc(50%_-_22px)] xl:bottom-0 z-20 w-full justify-between xl:w-max xl:justify-none" btnStyles="bg-accent hover:bg-accent-hover text-primary text-[22px] w-[44px] h-[44px] flex justify-center items-center transition-all" className="bg-red-500"/>
               
+   {/* slider buttons */}
+              
+   <WorkSliderBtns containerStyles="  flex gap-2 absolute right-0 md:right-[50%] lg:right-[50%] bottom-[calc(50%_-_22px)] xl:bottom-0 z-20 w-full justify-between xl:w-max xl:justify-none" btnStyles="bg-accent hover:bg-accent-hover text-primary text-[22px] w-[44px] h-[44px] flex justify-center items-center transition-all"/>
+
+               
 </Swiper>
+
+
           </div>
         </div>
       </div>

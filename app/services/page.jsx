@@ -14,13 +14,13 @@ const services=[
     href:""
 
   },
-  {
-    num:"02",
-    title:'App Development',
-    description:'Building intuitive, high-performance Android apps with sleek design and seamless functionality',
-    href:""
+  // {
+  //   num:"02",
+  //   title:'App Development',
+  //   description:'Building intuitive, high-performance Android apps with sleek design and seamless functionality',
+  //   href:""
 
-  },
+  // },
   {
     num:"03",
     title:'Logo Design',
