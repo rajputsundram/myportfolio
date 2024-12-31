@@ -14,9 +14,20 @@ import WorkSliderBtns from '@/components/WorkSliderBtns';
 
 const projects=[
 
-
   {
     num:'01',
+    category:'frontend',
+    title:'soloup',
+    description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est debitis distinctio beatae!',
+    stack:[
+  {name:'NextJs'},{name:'Tailwind'},],
+  image:'/assets/SuratCrystals.png',
+  live:"https://surat-crystals-dai7gk6p8-rajputsundrams-projects.vercel.app/ ",
+  github:"https://github.com/rajputsundram/SuratCrystals",
+  },
+
+  {
+    num:'02',
     category:'frontend',
     title:'soloup',
     description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est debitis distinctio beatae!',
@@ -28,7 +39,7 @@ const projects=[
   },
 
 {
-  num:'02',
+  num:'03',
   category:'frontend',
   title:'MediClinic',
   description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est debitis distinctio beatae!',
@@ -39,7 +50,7 @@ live:" https://rajputsundram.github.io/mediclinic/",
 github:"https://github.com/rajputsundram/mediclinic",
 },
 {
-  num:'03',
+  num:'04',
   category:'Frontend',
   title:'Glamify',
   description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est debitis distinctio beatae!',
@@ -51,7 +62,7 @@ github:"https://github.com/rajputsundram/Glamify",
 },
 
 {
-  num:'04',
+  num:'05',
   category:'frontend',
   title:'FoodStore',
   description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est debitis distinctio beatae!',
