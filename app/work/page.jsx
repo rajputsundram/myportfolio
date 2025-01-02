@@ -21,8 +21,8 @@ const projects=[
     stack:[
   {name:'NextJs'},{name:'Tailwind'}, {name:'NodeJs/Express'},{name:'TailwindCSS'},],
   image:'/assets/YummyPizza.png',
-  live:"https://surat-crystals.vercel.app/ ",
-  github:"",
+  live:"https://surat-crystals.vercel.app/",
+  github:"https://github.com/rajputsundram/YummyPizza",
   },
   {
     num:'02',
