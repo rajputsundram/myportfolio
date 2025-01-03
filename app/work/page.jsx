@@ -21,7 +21,7 @@ const projects=[
     stack:[
   {name:'NextJs'},{name:'TailwindCSS'}, {name:'NodeJs/Express'},{name:'MongoDB/mongoose'},],
   image:'/assets/YummyPizza.png',
-  live:"https://surat-crystals.vercel.app/",
+  live:"https://yummy-pizza-three.vercel.app/",
   github:"https://github.com/rajputsundram/YummyPizza",
   },
   {
