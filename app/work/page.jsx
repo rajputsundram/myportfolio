@@ -19,7 +19,7 @@ const projects=[
     title:'Yummy-Pizza',
     description:'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est debitis distinctio beatae!',
     stack:[
-  {name:'NextJs'},{name:'Tailwind'}, {name:'NodeJs/Express'},{name:'TailwindCSS'},],
+  {name:'NextJs'},{name:'TailwindCSS'}, {name:'NodeJs/Express'},{name:'MongoDB/mongoose'},],
   image:'/assets/YummyPizza.png',
   live:"https://surat-crystals.vercel.app/",
   github:"https://github.com/rajputsundram/YummyPizza",
